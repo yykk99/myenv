@@ -45,6 +45,7 @@
 
 - mysql か postgresql
 - たまに mongodb
+- 絶対 docker で作る
 
 #### docker
 
